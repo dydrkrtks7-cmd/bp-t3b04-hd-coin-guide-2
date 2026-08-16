@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daeheung-club-note.pub-jongno-pro.xyz/sitemap.xml
+Sitemap: https://daeheung-club-note.pub-jongno-pro.xyz/sitemap-pages.xml
